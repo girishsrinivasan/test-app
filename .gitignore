@@ -1,0 +1,10 @@
+node_modules/
+bin/
+*.out
+*.exe 
+.vscode/
+cmd/hydra-api/config.yaml
+cmd/hydra-cli/config.yaml
+config.yaml
+tmp/*
+cmd/hydra-api/tmp/*
